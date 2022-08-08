@@ -2,6 +2,8 @@
 
 namespace nguyenary\QRCodeMonkey\Request;
 
+require_once 'Data.php';
+
 use Curl;
 use Exception;
 use nguyenary\QRCodeMonkey\Constants\Constant;

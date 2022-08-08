@@ -2,6 +2,9 @@
 
 namespace nguyenary\QRCodeMonkey;
 
+require_once 'Request/Request.php';
+require_once 'Constants/Constant.php';
+
 use nguyenary\QRCodeMonkey\Request\Request;
 use nguyenary\QRCodeMonkey\Constants\Constant;
 
